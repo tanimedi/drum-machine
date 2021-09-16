@@ -37,7 +37,3 @@ function handleKeyDown(e) {
 }
 
 document.addEventListener("keydown", handleKeyDown);
-
-/*
-https://stackoverflow.com/questions/31549567/access-inner-text-using-this-with-jquery
-*/
